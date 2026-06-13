@@ -1,7 +1,5 @@
 # Swiggy-Sales-Analysis-Using-Excel
 
-### LinkedIn Post: Swiggy Sales Dashboard Project 🚀
-
 📊 **Swiggy Sales Dashboard Analysis using Excel**
 
 Excited to share my latest **Excel Dashboard Project** where I analyzed Swiggy sales data and transformed raw data into meaningful business insights.
